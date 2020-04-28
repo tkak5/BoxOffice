@@ -16,7 +16,7 @@
     "react-scripts": "3.3.1",
     "react-test-renderer": "^16.13.1"
   },
-  "homepage": "https://tkak5.github.io/BoxOffice",
+  "homepage": "https://tkak5.github.io/BoxOffice/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
